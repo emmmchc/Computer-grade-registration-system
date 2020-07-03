@@ -1,0 +1,22 @@
+body {
+    margin:0px;
+    padding:0px;
+    background:url(../img/library.jpg) no-repeat;
+    background-size:100%
+}
+
+.textColor{
+    color: red
+}
+
+div.login {
+    width: 350px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%
+}
+
+label {
+    color: red
+}

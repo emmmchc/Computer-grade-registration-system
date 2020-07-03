@@ -1,0 +1,15 @@
+body {
+    margin:0px;
+    padding:0px;
+    background:url(../img/library.jpg) no-repeat;
+    background-size:100%
+}
+
+.textColor{
+    color: red
+}
+
+div {
+    align-content: center;
+    margin-top: 6%
+}
